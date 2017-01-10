@@ -1,0 +1,15 @@
+/*this styles everything within the css-classes class*/
+.css-color p{
+	font-size: 16px;
+	color: green;
+}
+.css-color li{
+	font-size: 16px;
+	color: blue;
+}
+body {
+	background-color: #FAEBD7;
+}
+.css-color {
+	background-color: red;
+}
