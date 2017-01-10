@@ -1,0 +1,25 @@
+#circle {
+	height: 200px;
+	width: 200px;
+	border: 5px solid red;
+	border-radius: 100%;
+	margin: 20px 0px 0px 20px;
+	position: absolute;
+}
+#square {
+		height: 200px;
+	width: 200px;
+	border: 5px solid green;
+	margin: 20px 0px 0px 300px;
+	position: absolute;
+}
+#triangle {
+	height: 0px;
+	width: 0px;
+	border-top: 0px solid transparent;
+	border-left: 150px solid transparent;
+	border-bottom: 210px solid blue;
+	border-right: 150px solid transparent;
+	position: absolute;
+	margin: 20px 0px 0px 600px;
+}
